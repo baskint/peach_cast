@@ -23,6 +23,9 @@ App create script is:
 * Database initialization
   Run `rails db:create`
 
+* Install TailWindCss using
+`rails tailwindcss:instal`
+
 * Test Suite TBD
 
 * Services (job queues, cache servers, search engines, etc.) - TBD
